@@ -1,0 +1,1 @@
+<html><head><title>Home</title></head><body><img src="hero.png"><img src="cat.png" alt="cat"></body></html>
