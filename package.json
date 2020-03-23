@@ -1,0 +1,9 @@
+{
+  "name": "site-audit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "node test.js && node tests/empty.js && node tests/cli.js"
+  },
+  "description": "Inspect local HTML for missing image descriptions and page metadata"
+}
